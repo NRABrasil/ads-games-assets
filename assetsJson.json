@@ -1,6 +1,6 @@
 {
     "assets": {
         "flagTexture": "https://github.com/NRABrasil/ads-games-assets/blob/8dee41ebd4002a1d9f7eca2370653387d611ba59/Flag.jpg",
-        "lcdText": "https://github.com/NRABrasil/ads-games-assets/blob/main/lcdText.txt"
+        "lcdText": "https://raw.githubusercontent.com/NRABrasil/ads-games-assets/refs/heads/main/lcdText.txt?token=GHSAT0AAAAAADTCUKM2QLIXCSE6NPF2EXPS2PPXL2A"
     }
  }
